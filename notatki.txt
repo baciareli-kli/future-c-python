@@ -1,0 +1,8 @@
+###git
+
+whoami
+
+```
+git config user.email
+git config user.name
+```
